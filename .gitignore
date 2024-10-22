@@ -3,3 +3,9 @@ node_modules
 
 # Logs
 logs
+
+# Environment varibales
+.env*
+
+# package-lock.json (use yarn.lock instead)
+package-lock.json
